@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Ocean.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset",
+				"C:/Users/RobinFELDEN/La-Derniere-Lumiere-Trop-Cool-Pizza/GameJam_GoonSquad/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/BW/2JM5S40ZXTF4W1Z9BPNFR4.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/V9/8ZAO0AMV0P3IB1LZVIS3YG.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/NN/YDE6CFRUCIDQUSYGI31V0E.uasset",
@@ -25,7 +27,6 @@
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/UZ/E2HENWXVW2WDZRJ9VLL3N5.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TA/BN9SY5L85TZQJ9LDU94TT0.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/GR/FMGSX3EWQM7HD3S3H1WSCM.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FU/K1GNOPC0FWURZWX0R7PUIS.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ET/QUUHCNI2LV4ZZCCJHC3OQS.uasset",
 				"C:/Users/SachaREYNAUD/Documents/Unreal Projects/GameJam_GoonSquad/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/H7/WY4ZIC0UFBJH8R3C44DPPE.uasset",
