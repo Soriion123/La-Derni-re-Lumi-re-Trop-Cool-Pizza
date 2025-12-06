@@ -4500,3 +4500,14 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.06-06.10.27:625][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16308.654297
 [2025.12.06-06.10.28:622][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.06-06.10.28:623][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16309.321289, Update Interval: 302.437195
+[2025.12.06-06.14.33:810][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.06-06.14.33:815][602]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2025.12.06-06.14.33:815][602]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2025.12.06-06.14.33:819][602]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2025.12.06-06.14.33:819][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2025.12.06-06.14.33:836][602]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_Auto8
+[2025.12.06-06.14.33:836][602]LogSavePackage: Moving '../../../../../../Users/YannETIE/La-Derni-re-Lumi-re-Trop-Cool-Pizza/GameJam_GoonSquad/Saved/MainMenu_Auto857887A834363AF76C4B321A316319562.tmp' to '../../../../../../Users/YannETIE/La-Derni-re-Lumi-re-Trop-Cool-Pizza/GameJam_GoonSquad/Saved/Autosaves/Game/UI/MainMenu_Auto8.uasset'
+[2025.12.06-06.14.33:837][602]LogFileHelpers: Auto-saving content packages took 0.022
+[2025.12.06-06.16.01:335][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16642.431641
+[2025.12.06-06.16.02:335][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-06.16.02:335][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16643.095703, Update Interval: 308.479858
